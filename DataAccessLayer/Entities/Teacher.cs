@@ -6,6 +6,12 @@ namespace DataAccessLayer.Entities
 {
     public class Teacher
     {
+        public Teacher()
+        {
+            Courses = new List<Course>();
+        }
+
+
         public int TeacherID { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }

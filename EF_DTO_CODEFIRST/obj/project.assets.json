@@ -4746,6 +4746,20 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "DataAccessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.0.2",
+          "Microsoft.EntityFrameworkCore.Tools": "2.0.2"
+        },
+        "compile": {
+          "bin/placeholder/DataAccessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccessLayer.dll": {}
+        }
       }
     }
   },
@@ -12526,10 +12540,16 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "DataAccessLayer/1.0.0": {
+      "type": "project",
+      "path": "../DataAccessLayer/DataAccessLayer.csproj",
+      "msbuildProject": "../DataAccessLayer/DataAccessLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "DataAccessLayer >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.0.2",
       "Microsoft.EntityFrameworkCore.Tools >= 2.0.2",
@@ -12568,7 +12588,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Olusegun\\Documents\\Projects\\EFCore_CodeFirst\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Olusegun\\Documents\\Projects\\EFCore_CodeFirst\\DataAccessLayer\\DataAccessLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

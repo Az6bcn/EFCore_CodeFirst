@@ -17,11 +17,11 @@ namespace DataAccessLayer.EntitiesModelBuilderConfiguration
 
             // 2x 1-Many
             modelBuilder.HasOne(s => s.Student)
-                       .WithMany(c => (IEnumerable<StundentCourse>)c.Courses)
+                       .WithMany(c => c.StundentCourse)
                        .HasForeignKey(fk => fk.studentID);
 
             modelBuilder.HasOne(c => c.Course)
-                       .WithMany(s => (IEnumerable<StundentCourse>)s.Students)
+                       .WithMany(s => s.StundentCourse)
                        .HasForeignKey(fk => fk.CourseID);
 
 

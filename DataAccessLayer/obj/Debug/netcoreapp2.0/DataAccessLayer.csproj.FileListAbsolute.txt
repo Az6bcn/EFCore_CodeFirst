@@ -7,3 +7,12 @@ C:\Users\Olusegun\Documents\Visual Studio 2017\Projects\EF_DTO_CODEFIRST\DataAcc
 C:\Users\Olusegun\Documents\Visual Studio 2017\Projects\EF_DTO_CODEFIRST\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.AssemblyInfo.cs
 C:\Users\Olusegun\Documents\Visual Studio 2017\Projects\EF_DTO_CODEFIRST\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.dll
 C:\Users\Olusegun\Documents\Visual Studio 2017\Projects\EF_DTO_CODEFIRST\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.deps.json
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.pdb

@@ -6,3 +6,11 @@ C:\Users\Olusegun\Documents\Visual Studio 2017\Projects\EF_DTO_CODEFIRST\Reposit
 C:\Users\Olusegun\Documents\Visual Studio 2017\Projects\EF_DTO_CODEFIRST\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfo.cs
 C:\Users\Olusegun\Documents\Visual Studio 2017\Projects\EF_DTO_CODEFIRST\Repository\obj\Debug\netcoreapp2.0\Repository.dll
 C:\Users\Olusegun\Documents\Visual Studio 2017\Projects\EF_DTO_CODEFIRST\Repository\obj\Debug\netcoreapp2.0\Repository.pdb
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\Repository\bin\Debug\netcoreapp2.0\Repository.deps.json
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\Repository\bin\Debug\netcoreapp2.0\Repository.dll
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\Repository\bin\Debug\netcoreapp2.0\Repository.pdb
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\Repository\obj\Debug\netcoreapp2.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfo.cs
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\Repository\obj\Debug\netcoreapp2.0\Repository.dll
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\Repository\obj\Debug\netcoreapp2.0\Repository.pdb

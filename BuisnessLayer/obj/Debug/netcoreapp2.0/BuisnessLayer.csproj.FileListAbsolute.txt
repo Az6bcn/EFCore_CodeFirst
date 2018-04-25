@@ -7,3 +7,12 @@ C:\Users\Olusegun\Documents\Visual Studio 2017\Projects\EF_DTO_CODEFIRST\Buisnes
 C:\Users\Olusegun\Documents\Visual Studio 2017\Projects\EF_DTO_CODEFIRST\BuisnessLayer\obj\Debug\netcoreapp2.0\BuisnessLayer.AssemblyInfo.cs
 C:\Users\Olusegun\Documents\Visual Studio 2017\Projects\EF_DTO_CODEFIRST\BuisnessLayer\obj\Debug\netcoreapp2.0\BuisnessLayer.dll
 C:\Users\Olusegun\Documents\Visual Studio 2017\Projects\EF_DTO_CODEFIRST\BuisnessLayer\obj\Debug\netcoreapp2.0\BuisnessLayer.pdb
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\BuisnessLayer\bin\Debug\netcoreapp2.0\BuisnessLayer.deps.json
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\BuisnessLayer\bin\Debug\netcoreapp2.0\BuisnessLayer.dll
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\BuisnessLayer\bin\Debug\netcoreapp2.0\BuisnessLayer.pdb
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\BuisnessLayer\obj\Debug\netcoreapp2.0\BuisnessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\BuisnessLayer\obj\Debug\netcoreapp2.0\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\BuisnessLayer\obj\Debug\netcoreapp2.0\BuisnessLayer.AssemblyInfoInputs.cache
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\BuisnessLayer\obj\Debug\netcoreapp2.0\BuisnessLayer.AssemblyInfo.cs
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\BuisnessLayer\obj\Debug\netcoreapp2.0\BuisnessLayer.dll
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\BuisnessLayer\obj\Debug\netcoreapp2.0\BuisnessLayer.pdb

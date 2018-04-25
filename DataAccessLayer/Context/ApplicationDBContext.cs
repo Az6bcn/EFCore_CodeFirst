@@ -5,6 +5,14 @@ namespace DataAccessLayer.Context
 {
     public class ApplicationDBContext: DbContext
     {
+        /* ApplicationDBContext' should declare a constructor that accepts a DbContextOptions<ApplicationDBContext> 
+        and must pass it to the base constructor for DbContext. */
+        public ApplicationDBContext(DbContextOptions<ApplicationDBContext> options): base (options)
+        {
+
+        }
+
+
         // Expose our Entities as DBSet. 
         // DBSet<T> typically corresponds to a database table, and an entity corresponds to a row in the table.
         public DbSet<Student> Students { get; set; }
