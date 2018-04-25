@@ -31,6 +31,13 @@ namespace DataAccessLayer.EntitiesModelBuilderConfiguration
 
 
             /********************************* Setting Up Relationships With Navigation Property ********************/
+
+            // 1- Many : The Many side Entity's PK will be the FK in the one side.
+
+            modelBuilder.HasMany(c => c.Courses)
+                        .WithOne(t => t.Teacher)
+                        .HasForeignKey(fk => fk.CourseID);
+                        
         }
 
     }

@@ -1,8 +1,6 @@
 ﻿using DataAccessLayer.Entities;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace DataAccessLayer.EntitiesModelBuilderConfiguration
 {
@@ -14,11 +12,19 @@ namespace DataAccessLayer.EntitiesModelBuilderConfiguration
             /********************************* Setting Up Many - Many Relationships by is created by including 
              * an entity class for the join table and mapping two separate one-to-many relationships.********************/
 
-            modelBuilder.HasKey(pks => new { pks.studentID, pks.CourseID }); // JOIN TABLE
+            // JOIN TABLE
+            modelBuilder.HasKey(pks => new { pks.studentID, pks.CourseID });
 
             // 2x 1-Many
-            
-                        
+            modelBuilder.HasOne(s => s.Student)
+                       .WithMany(c => (IEnumerable<StundentCourse>)c.Courses)
+                       .HasForeignKey(fk => fk.studentID);
+
+            modelBuilder.HasOne(c => c.Course)
+                       .WithMany(s => (IEnumerable<StundentCourse>)s.Students)
+                       .HasForeignKey(fk => fk.CourseID);
+
+
         }
     }
 }

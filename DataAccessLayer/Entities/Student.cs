@@ -16,6 +16,6 @@ namespace DataAccessLayer.Entities
         public string LastName { get; set; }
         public DateTime DateOfBirth { get; set; }
         public virtual StudentAddress StudentAddress { get; set; }
-        public virtual List<Course> Courses { get; set; }
+        public virtual IList<Course> Courses { get; set; }
     }
 }

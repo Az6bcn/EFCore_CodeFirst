@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Olusegun\\Documents\\Visual Studio 2017\\Projects\\EF_DTO_CODEFIRST\\BuisnessLayer\\BuisnessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Olusegun\\Documents\\Projects\\EFCore_CodeFirst\\BuisnessLayer\\BuisnessLayer.csproj",
       "projectName": "BuisnessLayer",
-      "projectPath": "C:\\Users\\Olusegun\\Documents\\Visual Studio 2017\\Projects\\EF_DTO_CODEFIRST\\BuisnessLayer\\BuisnessLayer.csproj",
+      "projectPath": "C:\\Users\\Olusegun\\Documents\\Projects\\EFCore_CodeFirst\\BuisnessLayer\\BuisnessLayer.csproj",
       "packagesPath": "C:\\Users\\Olusegun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Olusegun\\Documents\\Visual Studio 2017\\Projects\\EF_DTO_CODEFIRST\\BuisnessLayer\\obj\\",
+      "outputPath": "C:\\Users\\Olusegun\\Documents\\Projects\\EFCore_CodeFirst\\BuisnessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

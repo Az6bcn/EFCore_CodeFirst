@@ -3401,11 +3401,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Olusegun\\Documents\\Visual Studio 2017\\Projects\\EF_DTO_CODEFIRST\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Olusegun\\Documents\\Projects\\EFCore_CodeFirst\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\Olusegun\\Documents\\Visual Studio 2017\\Projects\\EF_DTO_CODEFIRST\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\Olusegun\\Documents\\Projects\\EFCore_CodeFirst\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\Olusegun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Olusegun\\Documents\\Visual Studio 2017\\Projects\\EF_DTO_CODEFIRST\\DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\Olusegun\\Documents\\Projects\\EFCore_CodeFirst\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

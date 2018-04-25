@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Olusegun\\Documents\\Visual Studio 2017\\Projects\\EF_DTO_CODEFIRST\\Repository\\Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Olusegun\\Documents\\Projects\\EFCore_CodeFirst\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\Users\\Olusegun\\Documents\\Visual Studio 2017\\Projects\\EF_DTO_CODEFIRST\\Repository\\Repository.csproj",
+      "projectPath": "C:\\Users\\Olusegun\\Documents\\Projects\\EFCore_CodeFirst\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\Olusegun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Olusegun\\Documents\\Visual Studio 2017\\Projects\\EF_DTO_CODEFIRST\\Repository\\obj\\",
+      "outputPath": "C:\\Users\\Olusegun\\Documents\\Projects\\EFCore_CodeFirst\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
