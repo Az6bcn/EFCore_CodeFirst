@@ -10,6 +10,8 @@ namespace DataAccessLayer.Entities
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public DateTime DateOfBirth { get; set; }
+        // FK
+        public int StudentAddressID { get; set; }
         public virtual StudentAddress StudentAddress { get; set; }
 
         // public virtual IList<Course> Courses { get; set; }

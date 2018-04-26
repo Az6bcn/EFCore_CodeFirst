@@ -1,0 +1,8 @@
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\Model\bin\Debug\netcoreapp2.0\Model.deps.json
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\Model\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\Model\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\Model\obj\Debug\netcoreapp2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfoInputs.cache
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfo.cs
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\Model\obj\Debug\netcoreapp2.0\Model.dll
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\Model\obj\Debug\netcoreapp2.0\Model.pdb

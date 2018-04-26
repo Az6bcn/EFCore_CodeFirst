@@ -11,8 +11,6 @@ namespace DataAccessLayer.Entities
         public string City { get; set; }
         public string State { get; set; }
         public string PostalCode { get; set; }
-        // foreign key 
-        public int StudentID { get; set; }
         public virtual Student Student { get; set; }
     }
 }

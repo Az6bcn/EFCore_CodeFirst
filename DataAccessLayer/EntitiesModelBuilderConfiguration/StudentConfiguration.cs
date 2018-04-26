@@ -42,7 +42,7 @@ namespace DataAccessLayer.EntitiesModelBuilderConfiguration
             // 1-1 Relationsgip:  Student ----> StudentAddress
             modelBuilder.HasOne(ad => ad.StudentAddress)
                         .WithOne(st => st.Student)
-                        .HasForeignKey<StudentAddress>(fk => fk.StudentAddressID)
+                        .HasForeignKey<Student>(fk => fk.StudentAddressID)
                         .IsRequired();
 
             /* Many-Many Relationsgip:  Student <----> Course, so we configure two 1-Many Relationships and a new Entity 

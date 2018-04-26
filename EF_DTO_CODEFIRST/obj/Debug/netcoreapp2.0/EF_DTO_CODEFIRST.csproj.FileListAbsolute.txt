@@ -13,12 +13,3 @@ C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\obj\Debug
 C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\obj\Debug\netcoreapp2.0\EF_DTO_CODEFIRST.csproj.CoreCompileInputs.cache
 C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\obj\Debug\netcoreapp2.0\EF_DTO_CODEFIRST.AssemblyInfoInputs.cache
 C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\obj\Debug\netcoreapp2.0\EF_DTO_CODEFIRST.AssemblyInfo.cs
-C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\obj\Debug\netcoreapp2.0\EF_DTO_CODEFIRST.dll
-C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\obj\Debug\netcoreapp2.0\EF_DTO_CODEFIRST.pdb
-C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\bin\Debug\netcoreapp2.0\EF_DTO_CODEFIRST.deps.json
-C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\bin\Debug\netcoreapp2.0\EF_DTO_CODEFIRST.runtimeconfig.json
-C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\bin\Debug\netcoreapp2.0\EF_DTO_CODEFIRST.runtimeconfig.dev.json
-C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\bin\Debug\netcoreapp2.0\EF_DTO_CODEFIRST.dll
-C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\bin\Debug\netcoreapp2.0\EF_DTO_CODEFIRST.pdb
-C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
-C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb

@@ -12566,9 +12566,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Olusegun\\Documents\\Projects\\EFCore_CodeFirst\\EF_DTO_CODEFIRST\\EF_DTO_CODEFIRST.csproj",
-      "projectName": "EF_DTO_CODEFIRST",
-      "projectPath": "C:\\Users\\Olusegun\\Documents\\Projects\\EFCore_CodeFirst\\EF_DTO_CODEFIRST\\EF_DTO_CODEFIRST.csproj",
+      "projectUniqueName": "C:\\Users\\Olusegun\\Documents\\Projects\\EFCore_CodeFirst\\EF_DTO_CODEFIRST\\EF_DTO_CODEFIRST_API.csproj",
+      "projectName": "EF_DTO_CODEFIRST_API",
+      "projectPath": "C:\\Users\\Olusegun\\Documents\\Projects\\EFCore_CodeFirst\\EF_DTO_CODEFIRST\\EF_DTO_CODEFIRST_API.csproj",
       "packagesPath": "C:\\Users\\Olusegun\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Olusegun\\Documents\\Projects\\EFCore_CodeFirst\\EF_DTO_CODEFIRST\\obj\\",
       "projectStyle": "PackageReference",
