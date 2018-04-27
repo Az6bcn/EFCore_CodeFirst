@@ -1,0 +1,17 @@
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\bin\Debug\netcoreapp2.0\EF_DTO_CODEFIRST_API.deps.json
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\bin\Debug\netcoreapp2.0\EF_DTO_CODEFIRST_API.runtimeconfig.json
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\bin\Debug\netcoreapp2.0\EF_DTO_CODEFIRST_API.runtimeconfig.dev.json
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\bin\Debug\netcoreapp2.0\EF_DTO_CODEFIRST_API.dll
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\bin\Debug\netcoreapp2.0\EF_DTO_CODEFIRST_API.pdb
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\bin\Debug\netcoreapp2.0\BuisnessLayer.dll
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\bin\Debug\netcoreapp2.0\BuisnessLayer.pdb
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\obj\Debug\netcoreapp2.0\EF_DTO_CODEFIRST_API.csprojResolveAssemblyReference.cache
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\obj\Debug\netcoreapp2.0\EF_DTO_CODEFIRST_API.csproj.CoreCompileInputs.cache
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\obj\Debug\netcoreapp2.0\EF_DTO_CODEFIRST_API.AssemblyInfoInputs.cache
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\obj\Debug\netcoreapp2.0\EF_DTO_CODEFIRST_API.AssemblyInfo.cs
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\obj\Debug\netcoreapp2.0\EF_DTO_CODEFIRST_API.dll
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\obj\Debug\netcoreapp2.0\EF_DTO_CODEFIRST_API.pdb
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\EF_DTO_CODEFIRST\bin\Debug\netcoreapp2.0\Model.pdb

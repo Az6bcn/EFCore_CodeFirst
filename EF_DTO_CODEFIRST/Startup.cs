@@ -2,7 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
+using BuisnessLayer;
 using DataAccessLayer.Context;
+using DataAccessLayer.Repository;
+using DataAccessLayer.Repository.BaseRepository;
+using DataAccessLayer.Repository.RepositoryAbstraction;
+using DataAccessLayer.UnitOfWork;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -10,6 +16,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Repository.Abstraction;
 
 namespace EF_DTO_CODEFIRST
 {
@@ -25,6 +32,13 @@ namespace EF_DTO_CODEFIRST
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped(typeof(IBaseRepository<>), typeof(BaseRepository<>));
+            services.AddScoped<ICoursesRepository, CoursesRepository>();
+            services.AddScoped<CoursesManager, CoursesManager>();
+
+            services.AddAutoMapper(typeof(Startup));
             // Add framework services
             services.AddDbContext<ApplicationDBContext>( 
                             options => options.UseSqlServer(Configuration.GetConnectionString("ConnectionString"),

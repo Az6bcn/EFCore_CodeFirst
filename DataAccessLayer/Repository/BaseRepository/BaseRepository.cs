@@ -21,7 +21,7 @@ namespace DataAccessLayer.Repository.BaseRepository
 
         public async Task<IEnumerable<TEntityType>> GetAllAsync(String  StoredProcedureName) {
 
-            var response = await dbContext.Set<TEntityType>().FromSql("EXEC"+$"{StoredProcedureName}").ToListAsync();
+            var response = await dbContext.Set<TEntityType>().FromSql("EXEC"+" "+$"{StoredProcedureName}").ToListAsync();
 
             return response;
         }

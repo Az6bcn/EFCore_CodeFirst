@@ -1,4 +1,5 @@
-﻿using DataAccessLayer.Repository;
+﻿using DataAccessLayer.Context;
+using DataAccessLayer.Repository;
 using DataAccessLayer.Repository.RepositoryAbstraction;
 using Microsoft.EntityFrameworkCore;
 
@@ -7,10 +8,10 @@ namespace DataAccessLayer.UnitOfWork
     public class UnitOfWork: IUnitOfWork
     {
         // ApplicationDbContext
-        private readonly DbContext myAppDbContext;
+        private readonly ApplicationDBContext myAppDbContext;
 
         // DI DbContext into Unit Of Work
-        public UnitOfWork(DbContext _myAppDbContext)
+        public UnitOfWork(ApplicationDBContext _myAppDbContext)
         {
             myAppDbContext = _myAppDbContext;
 

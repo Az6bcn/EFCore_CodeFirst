@@ -6,5 +6,7 @@ namespace Model.DTOs
 {
     public class CourseDTO
     {
+        public int CourseID { get; set; }
+        public string CourseName { get; set; }
     }
 }

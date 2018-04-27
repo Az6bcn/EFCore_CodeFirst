@@ -16,3 +16,5 @@ C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\BuisnessLayer\obj\Debug\ne
 C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\BuisnessLayer\obj\Debug\netcoreapp2.0\BuisnessLayer.AssemblyInfo.cs
 C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\BuisnessLayer\obj\Debug\netcoreapp2.0\BuisnessLayer.dll
 C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\BuisnessLayer\obj\Debug\netcoreapp2.0\BuisnessLayer.pdb
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\BuisnessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Olusegun\Documents\Projects\EFCore_CodeFirst\BuisnessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb

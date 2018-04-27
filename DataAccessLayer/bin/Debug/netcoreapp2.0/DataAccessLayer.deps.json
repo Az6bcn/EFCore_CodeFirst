@@ -6,12 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "BuisnessLayer/1.0.0": {
+      "DataAccessLayer/1.0.0": {
         "dependencies": {
-          "DataAccessLayer": "1.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.0.2",
+          "Microsoft.EntityFrameworkCore.Tools": "2.0.2"
         },
         "runtime": {
-          "BuisnessLayer.dll": {}
+          "DataAccessLayer.dll": {}
         }
       },
       "Microsoft.CSharp/4.4.0": {},
@@ -435,20 +436,11 @@
           "Microsoft.NETCore.Targets": "1.0.1",
           "System.Runtime": "4.1.0"
         }
-      },
-      "DataAccessLayer/1.0.0": {
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "2.0.2",
-          "Microsoft.EntityFrameworkCore.Tools": "2.0.2"
-        },
-        "runtime": {
-          "DataAccessLayer.dll": {}
-        }
       }
     }
   },
   "libraries": {
-    "BuisnessLayer/1.0.0": {
+    "DataAccessLayer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -816,11 +808,6 @@
       "sha512": "sha512-k1S4Gc6IGwtHGT8188RSeGaX86Qw/wnrgNLshJvsdNUOPP9etMmo8S07c+UlOAx4K/xLuN9ivA1bD0LVurtIxQ==",
       "path": "system.threading.tasks/4.0.11",
       "hashPath": "system.threading.tasks.4.0.11.nupkg.sha512"
-    },
-    "DataAccessLayer/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }
