@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 using AutoMapper;
 using BuisnessLayer;
 using DataAccessLayer.Entities;
+using DataAccessLayer.IdentityCore;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Model.DTOs;
 
@@ -14,27 +16,49 @@ namespace EF_DTO_CODEFIRST.Controllers
     public class ValuesController : Controller
     {
         // Create a field to store the mapper object
-        private readonly IMapper mapper;
-        private readonly CoursesManager courseManager;
+        private readonly IMapper _mapper;
+        private readonly CoursesManager _courseManager;
+        // Identity Managers
+        private readonly UserManager<ApplicationUser> _userManager;
+        private readonly SignInManager<ApplicationUser> _signInManager;
 
-        public ValuesController(CoursesManager _courseManager, IMapper _mapper)
+        public ValuesController(CoursesManager courseManager, IMapper mapper,
+                                UserManager<ApplicationUser> userManager,
+                                SignInManager<ApplicationUser> signInManager )
         {
-            courseManager = _courseManager;
-            mapper = _mapper;
+            _courseManager = courseManager;
+            _mapper = mapper;
+            _userManager = userManager;
+            _signInManager = signInManager;
         }
 
         // GET api/values
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-            var courses = await courseManager.GetAllCoursesAsync();
+            var courses = await _courseManager.GetAllCoursesAsync();
 
             // Return DTO
-            var courseDTO = mapper.Map<IEnumerable<Course>, IEnumerable<CourseDTO>>(courses);
+            var courseDTO = _mapper.Map<IEnumerable<Course>, IEnumerable<CourseDTO>>(courses);
 
             return Ok(courseDTO);
         }
 
-      
+        // GET api/values
+        [HttpPost]
+        public async Task<IActionResult> Post([FromBody] ApplicationUser user)
+        {
+
+            var userToSave = new ApplicationUser()
+            {
+                FirstName = user.FirstName,
+                LastName = user.LastName,
+                UserName = user.FirstName
+            };
+            var identityUser = await _userManager.CreateAsync(userToSave, "Hasexzo1*");
+           
+            return Ok(identityUser);
+        }
+
     }
 }

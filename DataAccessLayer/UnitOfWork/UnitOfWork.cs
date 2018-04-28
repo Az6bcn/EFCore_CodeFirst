@@ -1,7 +1,6 @@
 ﻿using DataAccessLayer.Context;
 using DataAccessLayer.Repository;
 using DataAccessLayer.Repository.RepositoryAbstraction;
-using Microsoft.EntityFrameworkCore;
 
 namespace DataAccessLayer.UnitOfWork
 {
